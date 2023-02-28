@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "11543b1a71ade3ff",
+        "id": "82ffcdc7f93ad6ae",
         "type": "tabs",
         "children": [
           {
-            "id": "712dc26679e7cd3a",
+            "id": "088829a8ceae832b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 9 - 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "255e49060ba3689b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 10 - 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09027b9267b6eca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 11 - 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7360371c66d6f542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 12- 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17a9f31471cfa4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 13 - 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d61e2b6e0b86792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 14 - 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6842c9ed6b8c59fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 15 - 16.md",
+                "file": "retos-bandit/Level 21 - 22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 15 - 16.md",
+                "file": "retos-bandit/Level 21 - 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 15 - 16.md",
+                "file": "retos-bandit/Level 21 - 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 15 - 16.md"
+                "file": "retos-bandit/Level 21 - 22.md"
               }
             }
           }
@@ -219,17 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6842c9ed6b8c59fe",
+  "active": "088829a8ceae832b",
   "lastOpenFiles": [
-    "retos-bandit/Level 0.md",
-    "retos-bandit/Level 15 - 16.md",
-    "retos-bandit/plantilla.md",
+    "retos-bandit/Level 20 - 21.md",
+    "retos-bandit/Level 19 - 20.md",
     "retos-bandit/Level 14 - 15.md",
-    "retos-bandit/Level 13 - 14.md",
-    "retos-bandit/Level 12- 13.md",
-    "retos-bandit/Level 11 - 12.md",
-    "retos-bandit/Level 10 - 11.md",
-    "retos-bandit/Level 9 - 10.md",
-    "retos-bandit/Level 7 - 8.md"
+    "retos-bandit/Level 18 - 19.md",
+    "retos-bandit/Level 21 - 22.md",
+    "retos-bandit/Level 15 - 16.md",
+    "retos-bandit/Level 16 - 17.md",
+    "retos-bandit/Level 17 - 18.md",
+    "retos-bandit/plantilla.md",
+    "retos-bandit/Level 12- 13.md"
   ]
 }
