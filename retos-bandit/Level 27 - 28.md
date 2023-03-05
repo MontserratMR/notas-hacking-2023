@@ -47,7 +47,7 @@ bandit27@bandit:/tmp/tmp.RH39ki24pd$ cd repo/
 bandit27@bandit:/tmp/tmp.RH39ki24pd/repo$ ls
 README
 bandit27@bandit:/tmp/tmp.RH39ki24pd/repo$ cat README
-The password to the next level is: AVanL161y9rsbcJIsFHuw35rjaOM19n
+The password to the next level is: AVanL161y9rsbcJIsFHuw35rjaOM19nR
 ```
 
 ## Notas Adicionales
