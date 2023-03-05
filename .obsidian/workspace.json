@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "82ffcdc7f93ad6ae",
+        "id": "885ac905d0c03a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "088829a8ceae832b",
+            "id": "6d76da1ff9a89a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 21 - 22.md",
+                "file": "primer-parcial/2019/06 - Bases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "110592e219fd5679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 27 - 28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 21 - 22.md",
+                "file": "retos-bandit/Level 27 - 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 21 - 22.md",
+                "file": "retos-bandit/Level 27 - 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 21 - 22.md"
+                "file": "retos-bandit/Level 27 - 28.md"
               }
             }
           }
@@ -146,17 +159,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "088829a8ceae832b",
+  "active": "110592e219fd5679",
   "lastOpenFiles": [
+    "primer-parcial/2019/05 - strings it.md",
+    "primer-parcial/2019/04 - what's a net cat.md",
+    "primer-parcial/2019/03 - 2Warm.md",
+    "primer-parcial/2019/06 - Bases.md",
+    "primer-parcial/Plantilla 1.md",
+    "primer-parcial/2019/01 - Let's Warm Up.md",
+    "primer-parcial/2019/02 - Warmed up.md",
+    "retos-bandit/plantilla.md",
+    "Pasted image 20230221125753.png",
+    "Pasted image 20230221125906.png",
+    "retos-bandit/Level 27 - 28.md",
+    "primer-parcial/2022",
+    "primer-parcial/2020",
+    "primer-parcial/2019",
+    "primer-parcial",
+    "retos-bandit/Untitled",
+    "retos-bandit/Level 26 - 27.md",
+    "retos-bandit/Level 25 - 26.md",
+    "retos-bandit/Level 24 - 25.md",
+    "retos-bandit/Level 23 - 24.md",
+    "retos-bandit/Level 22 - 23.md",
+    "retos-bandit/Level 21 - 22.md",
     "retos-bandit/Level 20 - 21.md",
     "retos-bandit/Level 19 - 20.md",
     "retos-bandit/Level 14 - 15.md",
     "retos-bandit/Level 18 - 19.md",
-    "retos-bandit/Level 21 - 22.md",
     "retos-bandit/Level 15 - 16.md",
     "retos-bandit/Level 16 - 17.md",
     "retos-bandit/Level 17 - 18.md",
-    "retos-bandit/plantilla.md",
     "retos-bandit/Level 12- 13.md"
   ]
 }
