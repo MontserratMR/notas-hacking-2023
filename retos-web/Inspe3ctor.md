@@ -9,7 +9,7 @@ Kishor Balan tipped us off that the following code may need inspection: `https:
 Tenemos que entrar a la página que nos proporcionan e inspeccionar el código fuente. Ahí encontraremos la bandera en forma de comentarios en los distintos archivos HTML, JavaScript y CSS respectivamente.
 
 ## Bandera
-picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}
+picoCTF{tru3_d3t3ct1ve_0r_lucky?2e7b23e3}
 
 ## Notas Adicionales
 
