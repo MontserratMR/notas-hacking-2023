@@ -19,7 +19,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 ## Bandera
-picoCTF{}
+picoCTF{p}
 
 ## Notas Adicionales
 
